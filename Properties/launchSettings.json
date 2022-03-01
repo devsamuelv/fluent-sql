@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "fluent-sql (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "fluent-sql (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
